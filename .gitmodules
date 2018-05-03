@@ -1,0 +1,3 @@
+[submodule "first-app"]
+	path = first-app
+	url = https://github.com/adeyemi-malik/angular-project.git
